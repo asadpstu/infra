@@ -1,4 +1,4 @@
-export AWS_PROFILE=moribus-asad
+export AWS_PROFILE="aws profile name"
 
 change directory to dev | stg | prod
 
